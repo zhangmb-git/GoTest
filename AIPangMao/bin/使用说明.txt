@@ -1,0 +1,4 @@
+1 将csv目录下的csv文件清空
+2 将excel文件放在excel目录下
+3 配置config.ini 里面csvPath 和 xlsPath
+4 执行pangmaotest.exe或者胖猫.bat

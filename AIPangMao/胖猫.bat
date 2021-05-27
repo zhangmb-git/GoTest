@@ -1,0 +1,2 @@
+.\pangmaotest.exe
+pause
